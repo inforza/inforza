@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @inforza
-- 👀 I’m interested in cyber security, code and exploits.
-- 🌱 I’m currently learning phyton.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in cybersecurity, code and exploits.
+- 🌱 I’m currently learning coding.
